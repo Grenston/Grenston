@@ -3,8 +3,8 @@
 
 <div align = "center">
 <p float = "left">
-  <img src = "https://johnjohnston.info/blog/images/2012-02/2012-02-14_sherlock_gun.gif" width = "320" height = "320" alt = "gren">
   <a href="https://octodex.github.com/"> <img src = "https://octodex.github.com/images/bouncercat.png" width = "320" height = "320" alt = "gren"> </a>
+  <img src = "https://media.giphy.com/media/3rgXBHfIdp3F5zSjS0/giphy.gif" width = "320" height = "320" alt = "gren">
 </p>
 </div>
 
