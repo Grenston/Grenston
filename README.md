@@ -12,4 +12,4 @@
 - :star2: I know the languages: **Python, C++, Powershell, Javascript, YAML**
 - 🌱 I’m currently learning **Everything on DevOps**
 - 👯 I’m looking to develop tools for **GitHub**
-- :guardsman: I'd contribute to **Anaything related to DevOps**
+- :guardsman: I'd contribute to **Anything related to DevOps**
