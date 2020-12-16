@@ -4,7 +4,7 @@
 <div align = "center">
 <p float = "left">
   <a href="https://octodex.github.com/"> <img src = "https://octodex.github.com/images/bouncercat.png" width = "320" height = "320" alt = "gren"> </a>
-  <img src = "https://bestanimations.com/Fantasy/swordsweapons/knight-sword-animated-gif.gif" width = "400" height = "198" alt = "gren">
+  <img src = "https://media.giphy.com/media/3rgXBHfIdp3F5zSjS0/giphy.gif" width = "400" height = "198" alt = "gren">
 </p>
 </div>
 
