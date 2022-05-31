@@ -7,7 +7,6 @@
   <img src = "https://media.giphy.com/media/3rgXBHfIdp3F5zSjS0/giphy.gif" width = "400" height = "198" alt = "gren">
 </p>
 </div>
-<iframe width="100%" height="100%" src="https://www.addictinggames.com/embed/html5-games/23872" scrolling="no"></iframe>
 
 - 🔭 I’m currently working on **Azure DevOps, GitHub, Azure**
 - :star2: I know the languages: **Python, C++, Powershell, Javascript, YAML**
